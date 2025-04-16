@@ -1,6 +1,5 @@
 @echo off
 
-
 mvn checkstyle:check
 mvn clean compile
 mvn spotbugs:check

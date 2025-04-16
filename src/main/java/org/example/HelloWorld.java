@@ -1,7 +1,7 @@
 package org.example;
 
 /**
- * A simple HelloWorld class that greets the user.
+ * HelloWorld class
  */
 public class HelloWorld {
 
